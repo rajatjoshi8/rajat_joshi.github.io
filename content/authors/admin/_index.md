@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Atmospheric and Oceanic Sciences
     institution: Princeton University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2026
+    date_end: 2021
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -59,8 +59,8 @@ education:
       url: 'https://example.com'
   - area: MTech Climate Science
     institution: Indian Institute of Science
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019
+    date_end: 2021
     summary: |
       GPA: 3.8/4.0
 
@@ -70,8 +70,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BTech Mechanical Engineering
     institution: G B Pant University of Agriculture and Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019
+    date_end: 2015
     summary: |
       GPA: 3.4/4.0
       
@@ -91,17 +91,17 @@ work:
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# - position: Backend Software Engineer
+#   company_name: X
+#   company_url: ''
+#   company_logo: ''
+#   date_start: 2016-01-01
+#   date_end: 2020-12-31
+#   summary: |
+#     Responsibilities include:
+#     - Migrated infrastructure to a new data center
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
