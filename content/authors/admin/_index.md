@@ -68,7 +68,7 @@ education:
     # date_start: 2019-08
     #date_end: 2021-07
    # summary: |
-      GPA: 3.8/4.0
+      #GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
