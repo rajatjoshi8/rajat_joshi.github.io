@@ -33,17 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rajatjoshi@princeton.edu'
     label: E-mail Me
- # - icon: brands/x
+# - icon: brands/x
      url: https://twitter.com/GetResearchDev
 # - icon: brands/instagram
     url: https://www.instagram.com/
-#  - icon: brands/github
+# - icon: brands/github
      url: https://github.com/gcushen
   - icon: brands/linkedin
     url: www.linkedin.com/in/rajat-joshi-248a1027b
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ
-#  - icon: academicons/orcid
+# - icon: academicons/orcid
      url: https://orcid.org/
 
 interests:
