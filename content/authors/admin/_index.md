@@ -53,9 +53,9 @@ interests:
   - Global Teleconnections
   - AI for Weather and Climate
 
-# education:
-  # - area: PhD in Atmospheric and Oceanic Sciences
-      institution: Princeton University
+ education:
+  - area: PhD in Atmospheric and Oceanic Sciences
+    institution: Princeton University
    # date_start: 2024-08-24
     #date_end: 2025-12-31 
    # summary: |
