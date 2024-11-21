@@ -176,7 +176,7 @@ interests:
 ---
 
 ## About Me
-<div style="color: black">
+<div style="color: #F5E05C;">
 Hello! I am a PhD candidate in the Program in Atmospheric and Oceanic Sciences at Princeton University, advised by <a href="https://www.gfdl.noaa.gov/rong-zhang-homepage/" style="color: blue; text-decoration: underline;">Dr. Rong Zhang</a>. My primary research interests are the ocean’s role in climate, air-sea interactions, global teleconnections, Indian monsoon, and extreme events. I am always curious to work on problems that increase our understanding of global and regional climate and I am excited in opportunities at the intersection of AI and climate. For my PhD, using fully coupled high-resolution climate models, my research focuses on comprehending the impacts of the North Atlantic ocean circulation changes on remote climate.
 </div>
 
