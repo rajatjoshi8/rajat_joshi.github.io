@@ -25,7 +25,7 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Program in Atmospheric and Oceanic Sciences Princeton University
-    url: https://openai.com/
+    url: https://aos.princeton.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
