@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rajat
+last_name: Joshi
 
 # Status emoji
 status:
@@ -20,71 +20,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Program in Atmospheric and Oceanic Sciences, Princeton University
+    url: https://aos.princeton.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rajatjoshi@princeton.edu'
     label: E-mail Me
-  - icon: brands/x
+ # - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+# - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
+#  - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/rajat-joshi-248a1027b
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
+    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ)
+#  - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Climate Dynamics
+  - Climate Modeling
+  - Ocean Role in Climate
+  - Global Teleconnections
+  - AI for Weather and Climate
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Atmospheric and Oceanic Sciences
+    institution: Princeton University
+    date_start: 2024-08
+    date_end: 2025-12 (expected)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+   # button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+  - area: Master of Technology in Climate Science
+    institution: Indian Institute of Science
+    date_start: 2019-08
+    date_end: 2021-07
+   # summary: |
       GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+  - area: Bachelor of Technology in Mechanical Engineering
+    institution: G. B. Pant University of Agriculture and Technology
+    date_start: 2015-08
+    date_end: 2019-06
+   # summary: |
       GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
+# work:
+#  - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -95,7 +97,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+#  - position: Backend Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
@@ -109,8 +111,8 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+# skills:
+#  - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -124,7 +126,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+#  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -144,24 +146,24 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Hindi
+    percent: Native
+ # - name: Portuguese
     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+#awards:
+  #- title: Neural Networks and Deep Learning
+  #  url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+ # - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
@@ -171,7 +173,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+#  - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a PhD candidate in the Program in Atmospheric and Oceanic Sciences at Princeton University, advised by [Dr. Rong Zhang](https://www.gfdl.noaa.gov/rong-zhang-homepage/). My primary research interests are the ocean’s role in climate, air-sea interactions, global teleconnections, Indian monsoon, and extreme events. I am always curious to work on problems that increase our understanding of global and regional climate and I am excited in oppurtunities at the interesction of AI and climate. For my PhD, using fully coupled high-resolution climate models, my research focuses on comprehending the impacts of the North Atlantic ocean circulation changes on remote climate.
