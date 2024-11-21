@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0000-0002-1091-8638
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Climate Dynamics
+  - Ocean Role in Climate
+  - Extreme Events
 
 education:
   - area: PhD Atmospheric and Oceanic Sciences
