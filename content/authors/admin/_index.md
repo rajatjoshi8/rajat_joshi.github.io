@@ -56,7 +56,7 @@ interests:
 education:
   - area: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
-    date_start: 2024-08-24
+   # date_start: 2024-08-24
     date_end: 2025-12-31 
 # summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
