@@ -48,18 +48,18 @@ interests:
  education:
   - area: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
-   # date_start: 2024-08-24
-    #date_end: 2025-12-31 
-   # summary: |
+#   date_start: 2024-08-24
+#   date_end: 2025-12-31 
+  # summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
    # button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Master of Technology in Climate Science
     institution: Indian Institute of Science
-    # date_start: 2019-08
-    #date_end: 2021-07
-   # summary: |
+#   date_start: 2019-08
+#   date_end: 2021-07
+#   summary: |
       #GPA: 3.8/4.0
 
       Courses included:
@@ -68,8 +68,8 @@ interests:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Technology in Mechanical Engineering
     institution: G. B. Pant University of Agriculture and Technology
-    date_start: 2015-08
-    date_end: 2019-06
+#   date_start: 2015-08
+#   date_end: 2019-06
    # summary: |
       GPA: 3.4/4.0
       
@@ -78,7 +78,7 @@ interests:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
-#  - position: Director of Cloud Infrastructure
+# - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -89,7 +89,7 @@ interests:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
+# - position: Backend Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
@@ -104,7 +104,7 @@ interests:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
-#  - name: Technical Skills
+# - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -118,7 +118,7 @@ interests:
         description: ''
         percent: 40
         icon: circle-stack
-#  - name: Hobbies
+# - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -155,7 +155,7 @@ interests:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
- # - title: Blockchain Fundamentals
+# - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
