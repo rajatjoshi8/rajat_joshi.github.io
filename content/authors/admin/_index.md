@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: www.linkedin.com/in/rajat-joshi-248a1027b
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ)
+    url: https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ
 #  - icon: academicons/orcid
     url: https://orcid.org/
 
