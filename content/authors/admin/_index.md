@@ -38,13 +38,13 @@ profiles:
 # - icon: brands/instagram
     url: https://www.instagram.com/
 # - icon: brands/github
-     url: https://github.com/gcushen
+    url: https://github.com/gcushen
 # - icon: brands/linkedin
     url: www.linkedin.com/in/rajat-joshi-248a1027b
 # - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ
 # - icon: academicons/orcid
-     url: https://orcid.org/
+    url: https://orcid.org/
 
 interests:
   - Climate Dynamics
