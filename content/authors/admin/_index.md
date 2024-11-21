@@ -57,7 +57,7 @@ education:
   - area: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
    # date_start: 2024-08-24
-    date_end: 2025-12-31 
+    #date_end: 2025-12-31 
    # summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
    # button:
@@ -65,8 +65,8 @@ education:
       url: 'https://example.com'
   - area: Master of Technology in Climate Science
     institution: Indian Institute of Science
-    date_start: 2019-08
-    date_end: 2021-07
+    # date_start: 2019-08
+    #date_end: 2021-07
    # summary: |
       GPA: 3.8/4.0
 
