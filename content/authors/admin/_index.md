@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Atmospheric and Oceanic Sciences
+    institution: Princeton University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MTech Climate Science
+    institution: Indian Institute of Science
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BTech Mechanical Engineering
+    institution: G B Pant University of Agriculture and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -181,7 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
 ## About Me
 <div style="color: #F5E05C;">
 Hello! I am a PhD candidate in the Program in Atmospheric and Oceanic Sciences at Princeton University, advised by <a href="https://www.gfdl.noaa.gov/rong-zhang-homepage/" style="color: blue; text-decoration: underline;">Dr. Rong Zhang</a>. My primary research interests are the ocean’s role in climate, air-sea interactions, global teleconnections, Indian monsoon, and extreme events. I am always curious to work on problems that increase our understanding of global and regional climate and I am excited in opportunities at the intersection of AI and climate. For my PhD, using fully coupled high-resolution climate models, my research focuses on comprehending the impacts of the North Atlantic ocean circulation changes on remote climate.
