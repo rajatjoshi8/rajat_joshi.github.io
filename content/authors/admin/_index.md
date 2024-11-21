@@ -64,10 +64,10 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     Courses included:
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BTech Mechanical Engineering
     institution: G B Pant University of Agriculture and Technology
     date_start: 2019
@@ -75,10 +75,10 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #    Courses included:
+ #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
 # - position: Director of Cloud Infrastructure
 #   company_name: GenCoin
