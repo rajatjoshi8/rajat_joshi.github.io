@@ -1,6 +1,6 @@
 ---
 # Display name
- title: Rajat
+ title: Rajat Joshi
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -17,14 +17,14 @@ last_name: Joshi
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-# highlight_name: true
+highlight_name: true
 
 # Role/position/tagline
 role: PhD Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Program in Atmospheric and Oceanic Sciences, Princeton University
+  - name: Program in Atmospheric and Oceanic Sciences
     url: https://aos.princeton.edu/
 
 # Social network links
@@ -33,18 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rajatjoshi@princeton.edu'
     label: E-mail Me
-# - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-# - icon: brands/instagram
-    url: https://www.instagram.com/
-# - icon: brands/github
-    url: https://github.com/gcushen
-# - icon: brands/linkedin
-    url: www.linkedin.com/in/rajat-joshi-248a1027b
-# - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ
-# - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
 
 interests:
   - Climate Dynamics
