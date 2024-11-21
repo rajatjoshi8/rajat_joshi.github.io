@@ -53,8 +53,8 @@ interests:
   - Global Teleconnections
   - AI for Weather and Climate
 
-education:
-  - area: PhD in Atmospheric and Oceanic Sciences
+# education:
+  # - area: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
    # date_start: 2024-08-24
     #date_end: 2025-12-31 
@@ -173,7 +173,7 @@ education:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#  - title: 'Object-Oriented Programming in R'
+# - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
