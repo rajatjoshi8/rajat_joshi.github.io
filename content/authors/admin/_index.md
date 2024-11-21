@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: RJ 
 
 # Name pronunciation (optional)
 name_pronunciation: Rajat Joshi
