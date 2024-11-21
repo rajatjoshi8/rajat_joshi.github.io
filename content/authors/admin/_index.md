@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Rajat Joshi
 
 # Name pronunciation (optional)
 name_pronunciation: Rajat Joshi
