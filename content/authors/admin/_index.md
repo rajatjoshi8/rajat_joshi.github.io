@@ -34,17 +34,17 @@ profiles:
     url: 'mailto:rajatjoshi@princeton.edu'
     label: E-mail Me
  # - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+     url: https://twitter.com/GetResearchDev
 # - icon: brands/instagram
     url: https://www.instagram.com/
 #  - icon: brands/github
-    url: https://github.com/gcushen
+     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: www.linkedin.com/in/rajat-joshi-248a1027b
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=FVbbAZMAAAAJ
 #  - icon: academicons/orcid
-    url: https://orcid.org/
+     url: https://orcid.org/
 
 interests:
   - Climate Dynamics
@@ -55,7 +55,7 @@ interests:
 
 # education:
   # - area: PhD in Atmospheric and Oceanic Sciences
-    institution: Princeton University
+      institution: Princeton University
    # date_start: 2024-08-24
     #date_end: 2025-12-31 
    # summary: |
