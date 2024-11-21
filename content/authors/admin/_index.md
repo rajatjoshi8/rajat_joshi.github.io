@@ -1,6 +1,6 @@
 ---
 # Display name
-title: रजत जोशी
+# title: रजत जोशी
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
