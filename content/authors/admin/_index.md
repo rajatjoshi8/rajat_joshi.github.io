@@ -53,16 +53,16 @@ education:
     date_start: 2026
     date_end: 2021
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+#     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#   button:
+#     text: 'Read Thesis'
+#     url: 'https://example.com'
   - area: MTech Climate Science
     institution: Indian Institute of Science
     date_start: 2019
     date_end: 2021
     summary: |
-      GPA: 3.8/4.0
+ #    GPA: 3.8/4.0
 
 #     Courses included:
 #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -73,7 +73,7 @@ education:
     date_start: 2019
     date_end: 2015
     summary: |
-      GPA: 3.4/4.0
+#     GPA: 3.4/4.0
       
  #    Courses included:
  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
