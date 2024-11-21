@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: रजत जोशी
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Rajat
 last_name: Joshi
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -143,11 +143,11 @@ education:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
+#languages:
+ # - name: English
     percent: 100
-  - name: Hindi
-    percent: Native
+ # - name: Hindi
+    percent: 
  # - name: Portuguese
     percent: 25
 
