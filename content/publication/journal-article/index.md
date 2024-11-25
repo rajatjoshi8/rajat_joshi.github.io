@@ -35,13 +35,6 @@ abstract: The winter upper troposphere/lower stratosphere temperature/vertical m
 # - name: ""
 #   url: ""
 url_pdf: https://www.proquest.com/docview/2869041897?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
